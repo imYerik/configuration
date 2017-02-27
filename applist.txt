@@ -1,70 +1,29 @@
-App Store.app
 AppCleaner.app
-Automator.app
 BaiduNetdisk_mac.app
-Calculator.app
-Calendar.app
 CheatSheet.app
-Chess.app
 CleanMyDrive 2.app
-Contacts.app
-DVD Player.app
-Dashboard.app
-Dictionary.app
 Docker.app
 DrCleaner.app
 DrUnarchiver.app
-EasyConnect.app
 Eclipse
 Evernote.app
-FaceTime.app
 Flux.app
-Font Book.app
 Google Chrome.app
 IINA.app
-Image Capture.app
 Jietu.app
-Keynote.app
-Launchpad.app
 MPlayerX.app
-Mail.app
-Maps.app
-Messages.app
 Microsoft Excel.app
 Microsoft OneNote.app
 Microsoft Outlook.app
 Microsoft PowerPoint.app
 Microsoft Word.app
-Mission Control.app
 MonthlyCal.app
 NeteaseMusic.app
-Notes.app
-Numbers.app
-Pages.app
-Photo Booth.app
-Photos.app
-Preview.app
 QBlocker.app
 QQ.app
-QuickTime Player.app
-Reminders.app
-Safari.app
-Siri.app
-Stickies.app
 Sublime Text.app
-System Preferences.app
-TeamViewer.app
-TextEdit.app
 Thunder.app
-Time Machine.app
-Toy Defense 3.app
-UCDisk.app
-Utilities
-VMware Client Integration Plug-in.app
 VMware Fusion.app
 WeChat.app
 Wunderlist.app
-iBooks.app
-iMovie.app
-iTunes.app
 爱奇艺.app
