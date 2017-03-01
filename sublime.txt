@@ -1,0 +1,9 @@
+Sublime VI mode
+
+Sublime --> Preferences --> Settings 
+Add followings
+
+{
+	"ignored_packages": []
+}
+
