@@ -8,9 +8,11 @@ DrUnarchiver.app
 Eclipse
 Evernote.app
 Flux.app
+Garmin Express.app
 Google Chrome.app
 IINA.app
 Jietu.app
+MacDown.app
 MPlayerX.app
 Microsoft Excel.app
 Microsoft OneNote.app
