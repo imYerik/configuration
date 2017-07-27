@@ -11,4 +11,4 @@ sudo minicom -s
 
 之后使用时，只要连上串口线，在终端（Terminal）输入minicom即可。
 
- 输入 ESC+M 可以看到所有快捷键菜单
+输入 ESC+z 可以看到所有快捷键菜单
