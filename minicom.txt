@@ -1,0 +1,14 @@
+sudo brew install minicom
+sudo minicom -s
+我们选择第三项Serial port setup，回车，进入详细设置。
+
+第一项Serial Device手动改为：/dev/tty.usbserialXXXX，Hardware Flow Control改为：No，
+更改时，如需更改第一项，则先输入a，光标会移动到第一项末尾；编辑结束后，按回车。
+ 
+选择save setup as dfl。
+
+选Exit，成功进入minicom，再按回车：
+
+之后使用时，只要连上串口线，在终端（Terminal）输入minicom即可。
+
+ 输入 ESC+M 可以看到所有快捷键菜单
