@@ -10,7 +10,6 @@ evernote
 google-chrome
 hammerspoon
 iina
-imazing
 macdown
 qblocker
 qiyimedia
