@@ -1,0 +1,12 @@
+CleanMyDrive 2.app
+DrCleaner.app
+DrUnarchiver.app
+Jietu.app
+Microsoft Excel.app
+Microsoft OneNote.app
+Microsoft Outlook.app
+Microsoft PowerPoint.app
+Microsoft Word.app
+MonthlyCal.app
+NeteaseMusic.app
+WeChat.app
